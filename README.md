@@ -58,8 +58,8 @@ To have this app on your pc, you need to:
   to run the functions, uncomment the console.logs
   to run the tests, comment the console.log else the tests will fail
 
-  - Run test with:
   ```
+- Run test with:
   npm test
 
 ### Built With
