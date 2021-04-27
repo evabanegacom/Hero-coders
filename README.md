@@ -60,7 +60,9 @@ To have this app on your pc, you need to:
 
   ```
 - Run test with:
+```
   npm test
+```
 
 ### Built With
 This project was built using these technologies.
