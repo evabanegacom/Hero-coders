@@ -1,0 +1,16 @@
+{
+  "name": "hero-coders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Capital.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.13.15",
+    "jest": "^26.6.3"
+  }
+}
